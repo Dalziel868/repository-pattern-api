@@ -1,0 +1,18 @@
+2021-07-21 09:12:56.0909 INFO Returned all owners from database.
+2021-07-21 09:13:03.3146 INFO Returned all owners from database.
+2021-07-21 10:03:12.0734 INFO Returned all owners from database.
+2021-07-21 10:15:45.9358 INFO Returned all owners from database.
+2021-07-21 10:15:53.9195 INFO Returned owner with id: 4f5635ec-73a3-4543-87cf-731b54e461dd
+2021-07-21 10:36:03.4460 INFO Returned owner with id: 4f5635ec-73a3-4543-87cf-731b54e461dd
+2021-07-21 10:36:08.7602 INFO Returned owner with details for id: 4f5635ec-73a3-4543-87cf-731b54e461dd
+2021-07-21 10:36:31.9701 INFO Returned owner with details for id: d2e5a40d-7c36-4d35-b373-4dc4de754a28
+2021-07-21 10:36:53.3033 INFO Returned owner with details for id: 4f5635ec-73a3-4543-87cf-731b54e461dd
+2021-07-21 10:39:10.6998 INFO Returned owner with details for id: 4f5635ec-73a3-4543-87cf-731b54e461dd
+2021-07-21 10:39:31.6718 INFO Returned owner with details for id: d2e5a40d-7c36-4d35-b373-4dc4de754a28
+2021-07-21 11:01:15.6370 INFO Returned owner with details for id: d2e5a40d-7c36-4d35-b373-4dc4de754a28
+2021-07-21 11:01:15.9382 ERROR Something went wrong inside GetOwnerWithDetails action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> OwnerDto
+System.Object -> Entities.DataTransferObjects.OwnerDto
+2021-07-21 11:01:46.6833 INFO Returned owner with details for id: d2e5a40d-7c36-4d35-b373-4dc4de754a28

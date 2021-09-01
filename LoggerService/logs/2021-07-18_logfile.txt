@@ -1,0 +1,18 @@
+2021-07-18 16:09:56.9647 INFO Here is info message from the controller.
+2021-07-18 16:09:56.9647 INFO Here is info message from the controller.
+2021-07-18 16:09:57.0121 DEBUG Here is debug message from the controller.
+2021-07-18 16:09:57.0121 DEBUG Here is debug message from the controller.
+2021-07-18 16:09:57.0121 WARN Here is warn message from the controller.
+2021-07-18 16:09:57.0121 ERROR Here is error message from the controller.
+2021-07-18 16:09:57.0121 WARN Here is warn message from the controller.
+2021-07-18 16:09:57.0121 ERROR Here is error message from the controller.
+2021-07-18 16:10:47.5821 INFO Here is info message from the controller.
+2021-07-18 16:10:49.2221 DEBUG Here is debug message from the controller.
+2021-07-18 16:10:49.2221 WARN Here is warn message from the controller.
+2021-07-18 16:10:49.2221 ERROR Here is error message from the controller.
+2021-07-18 16:52:16.7426 INFO Here is info message from the controller.
+2021-07-18 16:52:16.7922 DEBUG Here is debug message from the controller.
+2021-07-18 16:52:16.7922 WARN Here is warn message from the controller.
+2021-07-18 16:52:16.7922 ERROR Here is error message from the controller.
+2021-07-18 17:40:11.9047 INFO Returned all owners from database.
+2021-07-18 17:40:26.3032 INFO Returned all owners from database.

@@ -1,0 +1,14 @@
+D:\VSUALO\072021\REPOSITORY_API\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+D:\VSUALO\072021\REPOSITORY_API\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+D:\VSUALO\072021\REPOSITORY_API\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\VSUALO\072021\REPOSITORY_API\Repository\bin\Debug\netcoreapp3.1\Contracts.dll
+D:\VSUALO\072021\REPOSITORY_API\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+D:\VSUALO\072021\REPOSITORY_API\Repository\bin\Debug\netcoreapp3.1\Contracts.pdb
+D:\VSUALO\072021\REPOSITORY_API\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\VSUALO\072021\REPOSITORY_API\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+D:\VSUALO\072021\REPOSITORY_API\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+D:\VSUALO\072021\REPOSITORY_API\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+D:\VSUALO\072021\REPOSITORY_API\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+D:\VSUALO\072021\REPOSITORY_API\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+D:\VSUALO\072021\REPOSITORY_API\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+D:\VSUALO\072021\REPOSITORY_API\Repository\obj\Debug\netcoreapp3.1\Repository.pdb

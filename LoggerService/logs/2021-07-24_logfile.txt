@@ -1,0 +1,45 @@
+2021-07-24 08:14:36.0236 INFO Returned all owners from database.
+2021-07-24 08:15:31.9693 INFO Returned owner with details for id: 4f5635ec-73a3-4543-87cf-731b54e461dd
+2021-07-24 08:15:45.4208 INFO Returned owner with details for id: d2e5a40d-7c36-4d35-b373-4dc4de754a28
+2021-07-24 08:50:18.8206 INFO Returned all owners from database.
+2021-07-24 08:50:33.5697 INFO Returned owner with id: d2e5a40d-7c36-4d35-b373-4dc4de754a28
+2021-07-24 08:54:17.4320 ERROR Something went wrong inside CreateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> Owner
+System.Object -> Entities.Models.Owner
+2021-07-24 08:55:33.3312 ERROR Something went wrong inside CreateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> Owner
+System.Object -> Entities.Models.Owner
+2021-07-24 08:56:37.2814 ERROR Something went wrong inside CreateOwner action: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> Owner
+System.Object -> Entities.Models.Owner
+2021-07-24 10:42:38.9001 INFO Returned all owners from database.
+2021-07-24 10:44:08.0398 INFO Returned all owners from database.
+2021-07-24 10:44:10.1565 INFO Returned all owners from database.
+2021-07-24 10:44:11.0309 INFO Returned all owners from database.
+2021-07-24 10:44:11.5841 INFO Returned all owners from database.
+2021-07-24 10:44:11.8768 INFO Returned all owners from database.
+2021-07-24 10:44:12.7741 INFO Returned all owners from database.
+2021-07-24 10:44:13.6989 INFO Returned all owners from database.
+2021-07-24 10:44:14.7007 INFO Returned all owners from database.
+2021-07-24 10:44:16.2285 INFO Returned all owners from database.
+2021-07-24 10:44:16.7038 INFO Returned all owners from database.
+2021-07-24 10:44:16.9130 INFO Returned all owners from database.
+2021-07-24 10:44:22.7393 INFO Returned owner with details for id: 4f5635ec-73a3-4543-87cf-731b54e461dd
+2021-07-24 10:44:30.8701 INFO Returned owner with id: 4f5635ec-73a3-4543-87cf-731b54e461dd
+2021-07-24 10:44:40.0976 INFO Returned owner with id: 4f5635ec-73a3-4543-87cf-731b54e461dd
+2021-07-24 11:08:39.0721 INFO Returned owner with id: 4f5635ec-73a3-4543-87cf-731b54e461dd
+2021-07-24 11:08:49.4968 INFO Returned owner with details for id: 4f5635ec-73a3-4543-87cf-731b54e461dd
+2021-07-24 11:08:51.9390 INFO Returned all owners from database.
+2021-07-24 11:09:15.9845 INFO Returned owner with details for id: d2e5a40d-7c36-4d35-b373-4dc4de754a28
+2021-07-24 11:09:42.7145 ERROR Owner with id: d2e5a40d-7c36-4d35-b373-4dc4de754a28, hasn't been found in db.
+2021-07-24 11:09:45.3962 ERROR Owner with id: d2e5a40d-7c36-4d35-b373-4dc4de754a28, hasn't been found in db.
+2021-07-24 11:09:46.0811 ERROR Owner with id: d2e5a40d-7c36-4d35-b373-4dc4de754a28, hasn't been found in db.
+2021-07-24 11:09:46.2998 ERROR Owner with id: d2e5a40d-7c36-4d35-b373-4dc4de754a28, hasn't been found in db.
+2021-07-24 11:09:46.5277 ERROR Owner with id: d2e5a40d-7c36-4d35-b373-4dc4de754a28, hasn't been found in db.
+2021-07-24 11:13:27.2069 ERROR Cannot delete owner with id: 95ff606a-66d0-414a-0410-08d94e4800df. It has related accounts. Delete those accounts first

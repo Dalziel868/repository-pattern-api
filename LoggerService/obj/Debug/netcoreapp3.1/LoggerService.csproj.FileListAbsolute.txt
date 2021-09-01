@@ -1,0 +1,14 @@
+D:\VSUALO\072021\REPOSITORY_API\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+D:\VSUALO\072021\REPOSITORY_API\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+D:\VSUALO\072021\REPOSITORY_API\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+D:\VSUALO\072021\REPOSITORY_API\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+D:\VSUALO\072021\REPOSITORY_API\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+D:\VSUALO\072021\REPOSITORY_API\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+D:\VSUALO\072021\REPOSITORY_API\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+D:\VSUALO\072021\REPOSITORY_API\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+D:\VSUALO\072021\REPOSITORY_API\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+D:\VSUALO\072021\REPOSITORY_API\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+D:\VSUALO\072021\REPOSITORY_API\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+D:\VSUALO\072021\REPOSITORY_API\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+D:\VSUALO\072021\REPOSITORY_API\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\VSUALO\072021\REPOSITORY_API\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
